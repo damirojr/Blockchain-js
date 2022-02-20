@@ -1,0 +1,19 @@
+{
+  "name": "chronoscoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damirojr/ChronosCoin-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damirojr/ChronosCoin-js/issues"
+  },
+  "homepage": "https://github.com/damirojr/ChronosCoin-js#readme"
+}
